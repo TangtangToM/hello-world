@@ -1,4 +1,2 @@
 # hello-world
-
-Hi Humans!
-I  like Node.
+Just another repository
